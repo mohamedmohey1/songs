@@ -1,0 +1,3 @@
+In 6.sql, I used a subquery to find the artist_id for Post Malone.
+In 7.sql, I used a subquery for Drake.
+In 8.sql, I used LIKE operator with feat.
